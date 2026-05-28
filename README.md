@@ -164,3 +164,19 @@ This project inherits the Apache-2.0 license from the underlying `verl` codebase
 ## Acknowledgements
 
 This implementation builds on `verl` and the SDPO codebase. Please cite the corresponding upstream projects when using this code.
+
+## Citation
+
+If you find this project useful, please cite our paper:
+
+```bibtex
+@misc{zhao2026rosd,
+      title={ROSD: Reflective On-Policy Self-Distillation for Language Model Reasoning across Domains}, 
+      author={Ziqi Zhao and Xinyu Ma and Liu Yang and Yujie Feng and Daiting Shi and Jingzhou He and Xin Xin and Zhaochun Ren and Xiao-Ming Wu},
+      year={2026},
+      eprint={2605.28014},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.28014}, 
+}
+```
